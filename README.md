@@ -1,7 +1,16 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*uoUra4LLjZqtkMH4RUeRmw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm David Celis</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
+<img align="right" alt="Coding" width="400" src="https://kinsta.com/wp-content/uploads/2021/11/back-end-developer-1024x512.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schied&label=Profile%20views&color=0e75b6&style=flat" alt="schied" /> </p>
+
+- 🌱 I’m currently learning **NestJS**
+
+- 💬 Ask me about **NodeJS, ExpressJS**
+
+- 📫 How to reach me **david.205682@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schied&show_icons=true&locale=en" alt="schied" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schied&" alt="schied" /></p>
+
+
