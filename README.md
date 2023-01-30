@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schied&label=Profile%20views&color=0e75b6&style=flat" alt="schied" /> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **NodeJS, ExpressJS**
 
